@@ -1,4 +1,4 @@
-### ✨🐢  Full Stack Blockchain and Software Engineer 🚀✨
+### ✨🐢  Full Stack Blockchain Engineer 🚀✨
 
 <a href="https://github.com/maxim-engr">
   <img align="center" alt="Github stats Card" src="https://github-readme-stats.vercel.app/api?username=maxim-engr&line_height=40" />
