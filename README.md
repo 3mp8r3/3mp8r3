@@ -13,7 +13,8 @@ I have been a passionate full stack blockchain and software engineer for a decad
 
 ## 🔗 Links
 
-[![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/0xMaxim)
-[![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:maximc.plusplus@gmail.com)
-[![linked-in](https://img.shields.io/badge/Linked_In-E4405F?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/maxim-engr)
-[![telegram](https://img.shields.io/badge/Telegram-0077B5?style=for-the-badge&logo=Telegram&logoColor=white)](https://t.me/maximengr)
+<p align="center">
+  <a href="https://github.com/0xMaxim">
+    <img src="https://github-profile-trophy.vercel.app/?username=0xMaxim&row=1&column=7&no-bg=true&margin-w=42"/>
+  </a>
+</p>
