@@ -3,7 +3,7 @@
 
 ## 🕵️‍♂️ About Me
 <img align="right" src="https://github-readme-streak-stats.herokuapp.com?user=0xMaxim&theme=blue-green" />
-I have been a passionate full stack blockchain and software engineer for a decade. I specialize in Smart Contract, Solana, Rust, NFT, DEX, DEFI and Single Page Application and Cross Mobile App Development so far. And I can create safe governance token for your DEX as well as suggest so good tokenomics for you, and have plenty of experience of forking pancake swap, uniswap etc.
+I have been a passionate full stack blockchain and software engineer for a decade. I specialize in React.js, Vue.js, Angular, Web3.js, Ethers.js, Solidity, Rust as well as build CEX/DEX, DEFI, NFT and SPA, Wallets so far. <br>I can also create safe governance token for your DEX as well as suggest so good tokenomics for you, and have plenty of experience of forking PancakeSwap, UniSwap, SushiSwap etc.
 
 ## 🚀 Achievements
 - ⭐ Contributed to a lot of DEFI, DEX, NFT Projects, Web and Cross mobile Applications
