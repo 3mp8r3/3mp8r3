@@ -2,7 +2,7 @@
 <div align="center">⚡ Quotes: <strong>Action is the foundational key to all success.</strong></div>
 
 ## 🕵️‍♂️ About Me
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=0xMaxim&show_icons=true&icon_color=0366d6&text_color=24292e&bg_color=ffffff&hide_title=true" />
+<img align="right" src="https://github-readme-streak-stats.herokuapp.com?user=0xMaxim&theme=blue-green" />
 I have been a passionate full stack blockchain and software engineer for a decade. I specialize in Smart Contract, Solana, Rust, NFT, DEX, DEFI and Single Page Application and Cross Mobile App Development so far. And I can create safe governance token for your DEX as well as suggest so good tokenomics for you, and have plenty of experience of forking pancake swap, uniswap etc.
 
 ## 🚀 Achievements
