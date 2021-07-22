@@ -11,7 +11,7 @@ I have been a passionate full stack blockchain and software engineer for a decad
 - 👨‍🎓 Bachelor’s degree, Computer Engineering 
 
 
-## 🔗 Links
+## 🏆 Profile Trophy
 
 <p align="center">
   <a href="https://github.com/0xMaxim">
