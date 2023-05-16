@@ -3,12 +3,20 @@
 
 ## 🕵️‍♂️ About Me
 <img align="right" src="https://github-readme-streak-stats.herokuapp.com?user=3mp8r3&theme=blue-green" />
-I have been a passionate full stack blockchain engineer with 4+ years experience. I specialize in React.js, Web3.js, Ethers.js, CosmJS, Terra.js for dApp frontend, as well as Rust, Cosmwasm, Solidity for building smart contracts on Cosmos Chains, Solana, Ethereum Ecosystem. <br>I can also create safe governance token on top of your idea as well as suggest so good tokenomics for you, and have plenty of experience of minting NFT collections and more..
+Tech Lead, Full Stack Web, and Blockchain Developer with a decade of expertise in the industry.
+Specialized in Ethereum-based blockchain networks such as BSC, Polygon, Fantom, and Solana, as well as Cosmos-SDK chains.
+Successfully delivered numerous custom DeFi, DEX, CEX, and NFT projects by leveraging smart contracts (Rust, Go, Solidity, Cosmwasm) while ensuring visually appealing and user-friendly UI designs with advanced functionalities.
+Proficient in building dApp frontends using technologies like React.js and Next.js, while seamlessly integrating wallet providers and smart contracts with various blockchain providers and nodes, including Web3.js, Ethers.js, Terra.js, and more.
 
 ## 🚀 Achievements
-- ⭐ Contributed to Cosmos chain Smart Contracts development with Cosmwasm using Rust Progamming Language.
-- ⭐ Contributed to Ethereum based Smart Contracts development with Solidity Progamming Language.
-- ⭐ Contributed to Blockchain Protocols frontend, and web3 integration, wallet connects with React, Javascript, TypeScript, Web3 Libaries
+- ⭐ Actively contributed to the development of smart contracts on the Cosmos chain using CosmWasm, utilizing the Rust programming language.
+- ⭐ Made significant contributions to the development of Ethereum-based smart contracts using Solidity, ensuring their functionality and security.
+- ⭐ Played a key role in frontend development and web3 integration for various blockchain protocols, utilizing React, JavaScript, TypeScript, and web3 libraries. 
+- ⭐ Collaborated closely with cross-functional teams, including designers and backend developers, to ensure smooth integration and optimal user experiences.
+- ⭐ Continuously stayed updated with the latest trends and advancements in blockchain technology, actively seeking opportunities to enhance knowledge and skills.
+- ⭐ Demonstrated effective communication and teamwork abilities, fostering productive collaboration within cross-functional teams.
+- ⭐ Consistently delivered high-quality code and met project deadlines, ensuring successful project outcomes.
+
 
 
 ## 🏆 Profile Trophy
