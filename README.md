@@ -1,4 +1,4 @@
-<h2 align="center">✨🐢  Full Stack Blockchain Engineer 🚀✨</h2>
+<h2 align="center">✨🐢  Tech Lead, Full Stack Web, and Blockchain Developer 🚀✨</h2>
 <div align="center">⚡ Quotes: <strong>Action is the foundational key to all success.</strong></div>
 
 ## 🕵️‍♂️ About Me
